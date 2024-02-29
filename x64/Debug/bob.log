@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+  FileName2.cpp
+D:\mvsc\bob\FileName2.cpp(2,10): fatal  error C1083: Не удается открыть файл включение: glut.h: No such file or directory,
+  Создание кода...
